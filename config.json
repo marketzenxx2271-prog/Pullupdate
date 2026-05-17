@@ -2,6 +2,5 @@
   "latest_version": "v2",
   "allow_update": false,
   "maintenance": false,
-  "kill_mode": "none",
-  "auto_update": false
+  "kill_mode": "none"
 }
