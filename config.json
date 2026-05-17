@@ -3,5 +3,5 @@
   "allow_update": false,
   "maintenance": false,
   "kill_mode": "none",
-  "auto_update": true
+  "auto_update": false
 }
