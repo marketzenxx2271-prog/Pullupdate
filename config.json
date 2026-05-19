@@ -2,5 +2,5 @@
   "latest_version": "v3.1",
   "allow_update": false,
   "maintenance": false,
-  "kill_mode": "none"
+  "kill_mode": "exit"
 }
