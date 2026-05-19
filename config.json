@@ -1,6 +1,6 @@
 {
   "latest_version": "v3.1",
-  "allow_update": true,
+  "allow_update": false,
   "maintenance": true,
   "kill_mode": "none"
 }
